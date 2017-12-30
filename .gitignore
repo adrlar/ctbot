@@ -3,6 +3,7 @@ activate_python_env.sh
 ctbot_plots
 my-graph.html
 test_bot.sh
+.DS_Store
 
 # The file with polo keys
 keys.py
